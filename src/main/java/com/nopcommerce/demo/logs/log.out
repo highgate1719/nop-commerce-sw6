@@ -1,0 +1,8 @@
+2023-12-19 21:12:262 INFO  LoginPage :39 - Getting text from : [[FirefoxDriver: firefox on windows (3b52c668-2631-4a11-94f4-b318f190df5f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-19 21:12:84 INFO  LoginPage :45 - Enter email :ankptl55@gmail.com in email field [[FirefoxDriver: firefox on windows (19d534be-930b-444a-ac59-b5e2b3f027f1)] -> id: Email]
+2023-12-19 21:12:202 INFO  LoginPage :50 - Enter password :abc123 in password field [[FirefoxDriver: firefox on windows (19d534be-930b-444a-ac59-b5e2b3f027f1)] -> name: Password]
+2023-12-19 21:12:635 INFO  LoginPage :55 - Clicking on Login button : [[FirefoxDriver: firefox on windows (19d534be-930b-444a-ac59-b5e2b3f027f1)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-19 21:12:892 INFO  LoginPage :60 - Getting text from : [[FirefoxDriver: firefox on windows (19d534be-930b-444a-ac59-b5e2b3f027f1)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-19 21:12:798 INFO  LoginPage :45 - Enter email :chintu@gmail.com in email field [[FirefoxDriver: firefox on windows (41a58128-0975-4b0b-837f-e496ae10689d)] -> id: Email]
+2023-12-19 21:12:982 INFO  LoginPage :50 - Enter password :chintu500 in password field [[FirefoxDriver: firefox on windows (41a58128-0975-4b0b-837f-e496ae10689d)] -> name: Password]
+2023-12-19 21:12:806 INFO  LoginPage :55 - Clicking on Login button : [[FirefoxDriver: firefox on windows (41a58128-0975-4b0b-837f-e496ae10689d)] -> xpath: //button[contains(text(),'Log in')]]
